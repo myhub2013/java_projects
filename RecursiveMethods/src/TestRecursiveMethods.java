@@ -39,24 +39,6 @@ public class TestRecursiveMethods {
     System.out.println(recursiveTest.phraseAnagramCheck("abcdefg", "aabbccddeeffgg"));
     System.out.println(recursiveTest.phraseAnagramCheck("unempty", ""));
 
-    System.out.println("zigzag 1");
-    recursiveTest.printZigZag(1, 0);
-    System.out.println("zigzag 2");
-    recursiveTest.printZigZag(2, 0);
-    System.out.println("zigzag 3");
-   recursiveTest.printZigZag(3, 0);
-    System.out.println("zigzag 4");
-    recursiveTest.printZigZag(4, 0);
-     System.out.println("zigzag 6");
-    recursiveTest.printZigZag(6, 0);
-    System.out.println("zigzag 8");
-    recursiveTest.printZigZag(8, 0);
-    System.out.println("zigzag 12");
-    recursiveTest.printZigZag(12, 0);
-    System.out.println("zigzag 16");
-    recursiveTest.printZigZag(16, 0);
-    System.out.println("zigzag 35");
-    recursiveTest.printZigZag(35, 0);
   }
 }
 
